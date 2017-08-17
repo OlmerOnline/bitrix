@@ -23,7 +23,7 @@ if(!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true)	die();?>
 				<div id="header">
 
 					<!-- Logo -->
-						<h1><a href="index.html" id="logo">Гостевая книга</a></h1>
+						<h1><a href="/" id="logo">Гостевая книга</a></h1>
 
 					<!-- Nav -->
 						<nav id="nav">
@@ -31,6 +31,7 @@ if(!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true)	die();?>
 								<li class="current"><a href="/">Home</a></li>
 								<li class="current"><a href="/auth/">Авторизация</a></li>
 								<li class="current"><a href="/auth/signup.php">Регистрация</a></li>
+								<li class="current"><a href="/profile/">Профиль</a></li>
 							</ul>
 						</nav>
 
