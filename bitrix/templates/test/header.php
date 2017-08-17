@@ -21,18 +21,6 @@ if(!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true)	die();?>
 			<?$APPLICATION->ShowPanel();?>
 			<!-- Header -->
 				<div id="header">
-
 					<!-- Logo -->
 						<h1><a href="/" id="logo">Гостевая книга</a></h1>
-
-					<!-- Nav -->
-						<nav id="nav">
-							<ul>
-								<li class="current"><a href="/">Home</a></li>
-								<li class="current"><a href="/auth/">Авторизация</a></li>
-								<li class="current"><a href="/auth/signup.php">Регистрация</a></li>
-								<li class="current"><a href="/profile/">Профиль</a></li>
-							</ul>
-						</nav>
-
 				</div>

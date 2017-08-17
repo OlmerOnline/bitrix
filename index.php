@@ -19,6 +19,12 @@ $APPLICATION->SetTitle("Главная");
 						Array(),
 						false
 					);?>
+					<?$APPLICATION->IncludeComponent(
+						"test:messages.add",
+						"",
+						Array(),
+						false
+					);?>
 				</div>
 			</div>
 			<div class="4u 12u(narrower)">

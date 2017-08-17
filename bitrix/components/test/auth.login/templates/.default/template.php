@@ -7,12 +7,12 @@
 	<form method="post" action="">
 		<div class="row 50%">
 			<div class="6u 12u(mobilep)">
-				<input type="text" name="login" id="login" placeholder="Login" />
+				<input type="text" name="login" id="login" placeholder="Логин" />
 			</div>
 		</div>
 		<div class="row 50%">
 			<div class="6u 12u(mobilep)">
-				<input type="password" name="password" id="password" placeholder="Password" />
+				<input type="password" name="password" id="password" placeholder="Пароль" />
 			</div>
 		</div>
 		<div class="row 50%">
