@@ -30,6 +30,7 @@ if(!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true)	die();?>
 							<ul>
 								<li class="current"><a href="/">Home</a></li>
 								<li class="current"><a href="/auth/">Авторизация</a></li>
+								<li class="current"><a href="/auth/signup.php">Регистрация</a></li>
 							</ul>
 						</nav>
 

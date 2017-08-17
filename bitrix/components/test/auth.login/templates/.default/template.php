@@ -19,8 +19,9 @@
 			<div class="12u">
 				<ul class="actions">
 					<li><input type="submit" class="button" value="Войти" /></li>
+					<li><a href="/auth/signup.php" class="button alt">Регистрация</a></li>
 				</ul>
-			</div>
+			</div>	
 		</div>
 	</form>
 </section>
